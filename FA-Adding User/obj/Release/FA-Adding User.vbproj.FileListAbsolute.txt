@@ -1,0 +1,134 @@
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Release\FA-Adding User.exe.config
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Release\FA-Adding User.exe
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Release\FA-Adding User.pdb
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Release\FA-Adding User.xml
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Release\Google.Protobuf.dll
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Release\MySql.Data.dll
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Release\Newtonsoft.Json.dll
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Release\System.Buffers.dll
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Release\System.Data.SqlClient.dll
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Release\System.Memory.dll
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Release\System.Numerics.Vectors.dll
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Release\ZstdNet.dll
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Release\Google.Protobuf.pdb
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Release\Google.Protobuf.xml
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Release\MySql.Data.xml
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Release\System.Buffers.xml
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Release\System.Data.SqlClient.xml
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Release\System.Memory.xml
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Release\System.Numerics.Vectors.xml
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\obj\Release\FA_Adding_User.AddingUser.resources
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\obj\Release\FA_Adding_User.Form1.resources
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\obj\Release\FA_Adding_User.Resources.resources
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\obj\Release\FA_Adding_User.scan.resources
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\obj\Release\FA_Adding_User.storage1.resources
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\obj\Release\FA_Adding_User.Worksheet.resources
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\obj\Release\FA_Adding_User.worksheet2.resources
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\obj\Release\FA_Adding_User.Worksheet3.resources
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\obj\Release\FA_Adding_User.yesnook.resources
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\obj\Release\FA-Adding User.vbproj.GenerateResource.cache
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\obj\Release\FA-Adding User.vbproj.CoreCompileInputs.cache
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\obj\Release\FA-Adding User.vbproj.CopyComplete
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\obj\Release\FA-Adding User.exe
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\obj\Release\FA-Adding User.xml
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\obj\Release\FA-Adding User.pdb
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\obj\Release\FA-Adding User.vbproj.AssemblyReference.cache
+D:\TBK\FA_MN-worksheet\FA-Adding User\obj\Release\FA_Adding_User.AddingUser.resources
+D:\TBK\FA_MN-worksheet\FA-Adding User\obj\Release\FA_Adding_User.homeMenu.resources
+D:\TBK\FA_MN-worksheet\FA-Adding User\obj\Release\FA_Adding_User.Resources.resources
+D:\TBK\FA_MN-worksheet\FA-Adding User\obj\Release\FA_Adding_User.Scan.resources
+D:\TBK\FA_MN-worksheet\FA-Adding User\obj\Release\FA_Adding_User.storage1.resources
+D:\TBK\FA_MN-worksheet\FA-Adding User\obj\Release\FA_Adding_User.test.resources
+D:\TBK\FA_MN-worksheet\FA-Adding User\obj\Release\FA_Adding_User.Worksheet.resources
+D:\TBK\FA_MN-worksheet\FA-Adding User\obj\Release\FA-Adding User.vbproj.GenerateResource.cache
+D:\TBK\FA_MN-worksheet\FA-Adding User\obj\Release\FA-Adding User.vbproj.CoreCompileInputs.cache
+D:\TBK\FA_MN-worksheet\FA-Adding User\bin\Release\FA-Adding User.exe.config
+D:\TBK\FA_MN-worksheet\FA-Adding User\bin\Release\FA-Adding User.exe
+D:\TBK\FA_MN-worksheet\FA-Adding User\bin\Release\FA-Adding User.pdb
+D:\TBK\FA_MN-worksheet\FA-Adding User\bin\Release\FA-Adding User.xml
+D:\TBK\FA_MN-worksheet\FA-Adding User\bin\Release\BouncyCastle.Crypto.dll
+D:\TBK\FA_MN-worksheet\FA-Adding User\bin\Release\Google.Protobuf.dll
+D:\TBK\FA_MN-worksheet\FA-Adding User\bin\Release\K4os.Compression.LZ4.dll
+D:\TBK\FA_MN-worksheet\FA-Adding User\bin\Release\K4os.Compression.LZ4.Streams.dll
+D:\TBK\FA_MN-worksheet\FA-Adding User\bin\Release\K4os.Hash.xxHash.dll
+D:\TBK\FA_MN-worksheet\FA-Adding User\bin\Release\MySql.Data.dll
+D:\TBK\FA_MN-worksheet\FA-Adding User\bin\Release\Newtonsoft.Json.dll
+D:\TBK\FA_MN-worksheet\FA-Adding User\bin\Release\System.Buffers.dll
+D:\TBK\FA_MN-worksheet\FA-Adding User\bin\Release\System.Data.SqlClient.dll
+D:\TBK\FA_MN-worksheet\FA-Adding User\bin\Release\System.Memory.dll
+D:\TBK\FA_MN-worksheet\FA-Adding User\bin\Release\System.Numerics.Vectors.dll
+D:\TBK\FA_MN-worksheet\FA-Adding User\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\TBK\FA_MN-worksheet\FA-Adding User\bin\Release\Ubiety.Dns.Core.dll
+D:\TBK\FA_MN-worksheet\FA-Adding User\bin\Release\ZstdNet.dll
+D:\TBK\FA_MN-worksheet\FA-Adding User\bin\Release\BouncyCastle.Crypto.xml
+D:\TBK\FA_MN-worksheet\FA-Adding User\bin\Release\Google.Protobuf.pdb
+D:\TBK\FA_MN-worksheet\FA-Adding User\bin\Release\Google.Protobuf.xml
+D:\TBK\FA_MN-worksheet\FA-Adding User\bin\Release\K4os.Compression.LZ4.xml
+D:\TBK\FA_MN-worksheet\FA-Adding User\bin\Release\K4os.Compression.LZ4.Streams.xml
+D:\TBK\FA_MN-worksheet\FA-Adding User\bin\Release\K4os.Hash.xxHash.xml
+D:\TBK\FA_MN-worksheet\FA-Adding User\bin\Release\MySql.Data.xml
+D:\TBK\FA_MN-worksheet\FA-Adding User\bin\Release\System.Buffers.xml
+D:\TBK\FA_MN-worksheet\FA-Adding User\bin\Release\System.Data.SqlClient.xml
+D:\TBK\FA_MN-worksheet\FA-Adding User\bin\Release\System.Memory.xml
+D:\TBK\FA_MN-worksheet\FA-Adding User\bin\Release\System.Numerics.Vectors.xml
+D:\TBK\FA_MN-worksheet\FA-Adding User\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\TBK\FA_MN-worksheet\FA-Adding User\obj\Release\FA-Adding User.vbproj.CopyComplete
+D:\TBK\FA_MN-worksheet\FA-Adding User\obj\Release\FA-Adding User.exe
+D:\TBK\FA_MN-worksheet\FA-Adding User\obj\Release\FA-Adding User.xml
+D:\TBK\FA_MN-worksheet\FA-Adding User\obj\Release\FA-Adding User.pdb
+D:\TBK\FA_MN-worksheet\FA-Adding User\obj\Release\FA-Adding User.vbproj.AssemblyReference.cache
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\bin\Release\FA-Adding User.exe.config
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\bin\Release\FA-Adding User.exe
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\bin\Release\FA-Adding User.pdb
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\bin\Release\FA-Adding User.xml
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\bin\Release\Google.Protobuf.dll
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\bin\Release\MySql.Data.dll
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\bin\Release\Newtonsoft.Json.dll
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\bin\Release\System.Buffers.dll
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\bin\Release\System.Data.SqlClient.dll
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\bin\Release\System.Memory.dll
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\bin\Release\System.Numerics.Vectors.dll
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\bin\Release\ZstdNet.dll
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\bin\Release\Google.Protobuf.pdb
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\bin\Release\Google.Protobuf.xml
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\bin\Release\MySql.Data.xml
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\bin\Release\System.Buffers.xml
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\bin\Release\System.Data.SqlClient.xml
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\bin\Release\System.Memory.xml
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\bin\Release\System.Numerics.Vectors.xml
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\obj\Release\FA-Adding User.vbproj.AssemblyReference.cache
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\obj\Release\FA_Adding_User.AddingUser.resources
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\obj\Release\FA_Adding_User.homeMenu.resources
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\obj\Release\FA_Adding_User.Resources.resources
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\obj\Release\FA_Adding_User.Scan.resources
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\obj\Release\FA_Adding_User.storage1.resources
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\obj\Release\FA_Adding_User.test.resources
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\obj\Release\FA_Adding_User.Worksheet.resources
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\obj\Release\FA-Adding User.vbproj.GenerateResource.cache
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\obj\Release\FA-Adding User.vbproj.CoreCompileInputs.cache
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\obj\Release\FA-Adding User.vbproj.CopyComplete
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\obj\Release\FA-Adding User.exe
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\obj\Release\FA-Adding User.xml
+C:\Users\BRITO\source\repos\FA_MN-worksheet\FA-Adding User\obj\Release\FA-Adding User.pdb

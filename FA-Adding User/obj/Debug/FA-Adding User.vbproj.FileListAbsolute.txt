@@ -1,0 +1,47 @@
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Debug\FA-Adding User.exe.config
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Debug\FA-Adding User.exe
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Debug\FA-Adding User.pdb
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Debug\FA-Adding User.xml
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Debug\Google.Protobuf.dll
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Debug\MySql.Data.dll
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Debug\System.Buffers.dll
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Debug\System.Data.SqlClient.dll
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Debug\System.Memory.dll
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Debug\ZstdNet.dll
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Debug\Google.Protobuf.pdb
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Debug\Google.Protobuf.xml
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Debug\MySql.Data.xml
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Debug\System.Buffers.xml
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Debug\System.Data.SqlClient.xml
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Debug\System.Memory.xml
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\obj\Debug\FA_Adding_User.AddingUser.resources
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\obj\Debug\FA_Adding_User.Form1.resources
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\obj\Debug\FA_Adding_User.Resources.resources
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\obj\Debug\FA_Adding_User.scan.resources
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\obj\Debug\FA_Adding_User.Worksheet.resources
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\obj\Debug\FA_Adding_User.worksheet2.resources
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\obj\Debug\FA_Adding_User.Worksheet3.resources
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\obj\Debug\FA_Adding_User.Worksheet4.resources
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\obj\Debug\FA-Adding User.vbproj.GenerateResource.cache
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\obj\Debug\FA-Adding User.vbproj.CoreCompileInputs.cache
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\obj\Debug\FA-Adding User.vbproj.CopyComplete
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\obj\Debug\FA-Adding User.exe
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\obj\Debug\FA-Adding User.xml
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\obj\Debug\FA-Adding User.pdb
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\obj\Debug\FA_Adding_User.worksheet5.resources
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\obj\Debug\FA_Adding_User.storage1.resources
+C:\Users\BRITO\source\repos\FA-Adding User\FA-Adding User\obj\Debug\FA_Adding_User.yesnook.resources
